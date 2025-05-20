@@ -1,4 +1,3 @@
----
 version: 2
 updates:
   - package-ecosystem: "npm"
@@ -7,7 +6,8 @@ updates:
       interval: "daily"
     allow:
       - dependency-name: "@dkg.js"
-    asignees: "marko03kostic"
+    assignees:
+      - "marko03kostic"
     target-branch: "main"
     versioning-strategy: "increase"
     open-pull-request-limit: 1
