@@ -4,6 +4,10 @@ updates:
   - package-ecosystem: "npm"
     directory: "/javascript"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     allow:
       - dependency-name: "@dkg.js"
+    asignees: "marko03kostic"
+    target-branch: "main"
+    versioning-strategy: "increase"
+    open-pull-request-limit: 1
