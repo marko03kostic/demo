@@ -10,4 +10,4 @@ updates:
       - "marko03kostic"
     target-branch: "main"
     versioning-strategy: "increase"
-    open-pull-request-limit: 1
+    open-pull-requests-limit: 1
