@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: "daily"
     allow:
-      - dependency-name: "@dkg.js"
+      - dependency-name: "dkg.js"
     assignees:
       - "marko03kostic"
     target-branch: "main"
