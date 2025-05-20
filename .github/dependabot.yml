@@ -6,4 +6,4 @@ updates:
     schedule:
       interval: "weekly"
     allow:
-      - dependency-name: "@myorg/*"
+      - dependency-name: "@dkg.js"
