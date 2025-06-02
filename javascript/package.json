@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "dkg.js": "8.0.8"
+    "dkg.js": "8.0.14"
   }
 }
